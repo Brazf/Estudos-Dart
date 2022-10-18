@@ -1,5 +1,3 @@
-import 'dart:html';
-
 import 'cliente.dart';
 import 'venda_item.dart';
 

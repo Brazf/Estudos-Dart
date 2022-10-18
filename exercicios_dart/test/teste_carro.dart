@@ -1,4 +1,4 @@
-import '../model/carro.dart';
+import '../OO/model/carro.dart';
 
 main() {
   Car carro1 = new Car(250);
