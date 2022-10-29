@@ -1,7 +1,7 @@
-import '../OO/model/cliente.dart';
-import '../OO/model/produto.dart';
-import '../OO/model/venda.dart';
-import '../OO/model/venda_item.dart';
+import '../model/cliente.dart';
+import '../model/produto.dart';
+import '../model/venda.dart';
+import '../model/venda_item.dart';
 
 main (){
   /*
